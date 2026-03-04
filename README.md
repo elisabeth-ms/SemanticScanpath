@@ -1,4 +1,4 @@
-# GazeSpeechDisambiguation
+# Semantic Scanpath
 
 ![Gaze_speech_disambiguation_horizontal](docs/Gaze_speech_disambiguation_horizontal.png)
 A multimodal disambiguation system based on LLMs for human-robot interaction. This project enables a robot to combine gaze and speech information to resolve ambiguous user requests like "Can you hand me that?" in tabletop scenarios.
