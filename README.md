@@ -41,7 +41,7 @@ libasio-dev libzmq3-dev portaudio19-dev
 
 ### Clone and Build
 
-* Clone the repo:  `git clone https://github.com/elisabeth-ms/GazeSpeechDisambiguation.git && cd GazeSpeechDisambiguation`
+* Clone the repo:  `git clone https://github.com/elisabeth-ms/SemanticScanpath.git && cd SemanticScanpath`
 * Initialize AttentiveSupport submodule: `git submodule update --init --recursive`
 * Create build and install folders: `mkdir -p build install && cd build`
 * Configure and build:
